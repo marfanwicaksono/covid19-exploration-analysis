@@ -1,0 +1,19 @@
+I'm noting the exploration idea below.
+
+1. Explore the data in covid
+1. Analyze all data in it based on available data
+1. Do descriptive and predictive analysis
+
+## Descriptive analysis
+
+1. Positive ratio based on age
+2. Death ratio based on age
+3. Positive ratio based on gender
+4. Death ratio based on gender
+
+## Predictive analysis
+
+1. Using model to predict death ratio based on age
+2. Classification analysis to 
+
+## Another things to be explored
